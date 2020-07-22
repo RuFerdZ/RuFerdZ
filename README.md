@@ -29,8 +29,8 @@ I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology foll
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗩𝘂𝗲</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <span>Angular</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>Dart</span><br>
@@ -97,6 +97,10 @@ I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology foll
       <td width="20%" align="center">
         <span>MongoDBL</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Adobe XD</span><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
       </td>
     </tr>   
   </tbody>
