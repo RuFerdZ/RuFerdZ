@@ -17,85 +17,85 @@ I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology foll
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br>
+        <span>𝗖𝗦𝗦𝟯</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br>
+        <span>𝗩𝘂𝗲</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="20%" align="center">
-        <span>Dart</span><br><br>
+        <span>Dart</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Python</span><br><br>
+        <span>Python</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="20%" align="center">
-        <span>C</span><br><br>
+        <span>C</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="20%" align="center">
-        <span>C++</span><br><br>
+        <span>C++</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="20%" align="center">
-        <span>C#</span><br><br>
+        <span>C#</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="20%" align="center">
-        <span>Java</span><br><br>
+        <span>Java</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>PHP</span><br><br>
+        <span>PHP</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <span>TensorFlow</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="20%" align="center">
-        <span>Flutter</span><br><br>
+        <span>Flutter</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
       <td width="20%" align="center">
-        <span>Laravel</span><br><br>
+        <span>Laravel</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="20%" align="center">
-        <span>Spring Boot</span><br><br>
+        <span>Spring Boot</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Node.js</span><br><br>
+        <span>Node.js</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="20%" align="center">
-        <span>.NET</span><br><br>
+        <span>.NET</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
       </td>
       <td width="20%" align="center">
-        <span>MySQL</span><br><br>
+        <span>MySQL</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="20%" align="center">
-        <span>MongoDBL</span><br><br>
+        <span>MongoDBL</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
     </tr>   
