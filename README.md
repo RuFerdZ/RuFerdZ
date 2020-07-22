@@ -100,7 +100,7 @@ I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology foll
       </td>
       <td width="20%" align="center">
         <span>Adobe XD</span><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg">
       </td>
     </tr>   
   </tbody>
