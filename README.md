@@ -17,15 +17,15 @@ I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology foll
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br>
+        <span>HTML 5</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br>
+        <span>CSS</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br>
+        <span>JavaScript</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
