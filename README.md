@@ -66,8 +66,8 @@ I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology foll
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
-        <span>TensorFlow</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+        <span>PostgreSQL</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="20%" align="center">
         <span>Flutter</span><br>
