@@ -6,6 +6,7 @@ I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology foll
 #### My Interests 💻
 - Backend Development 
 - Mobile Development
+- DevOps
 - Machine Learning and AI
 
 <hr>
