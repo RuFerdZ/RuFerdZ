@@ -3,7 +3,7 @@
 ## I'm a Programmer, Gamer, Foodie!!
 
 - 👨🏻‍🎓 I’m currently an Undergraduate 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate in open source projects
 - 🥅 Goals: Learn Something new everyday
 - ⚡ Fun fact: I love paranormal sciences
 
