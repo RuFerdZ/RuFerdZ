@@ -1,4 +1,6 @@
 # Hi there, I'm Rusiru - aka [RuFerdZ]()  👋
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
 
 ## I'm a Programmer, Gamer, Foodie!!
 
