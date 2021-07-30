@@ -1,16 +1,15 @@
-## Hello Folks ✌️ - @RuFerdZ
-I am Rusiru Fernando | Undergraduate of Informatics Institute of Technology following BEng(hons) Software Engineering.
+### Hi there, I'm Rusiru - aka [RuFerdZ]()  👋
 
-<hr>
+## I'm a Programmer, Gamer, Foodie!!
 
-#### My Interests 💻
-- Backend Development 
-- Mobile Development
-- DevOps
-- Machine Learning and AI
+- 👨🏻‍🎓 I’m currently learning an Undergraduate 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 Goals: Learn Something new everyday
+- ⚡ Fun fact: I love paranormal sciences
 
-<hr>
+## My Interests 
+- 💻 Backend Development 
+- ⚙️ DevOps
+- ☁️ Cloud Computing
+- ⛓️ Blockchain 
 
-#### Reach me via
-<a href="https://www.linkedin.com/in/rusiru-fernando-246618169/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/rusiru_ferdz/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
