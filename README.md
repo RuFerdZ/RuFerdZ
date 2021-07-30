@@ -1,4 +1,4 @@
-### Hi there, I'm Rusiru - aka [RuFerdZ]()  👋
+# Hi there, I'm Rusiru - aka [RuFerdZ]()  👋
 
 ## I'm a Programmer, Gamer, Foodie!!
 
