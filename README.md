@@ -33,17 +33,6 @@
 <img style="margin-right: 15px;margin-bottom: 10px;" src="https://cdn.svgporn.com/logos/ethereum.svg" width="25px">
 </div> -->
 
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center"> 
-  <a href="https://github.com/RuFerdZ?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/RuFerdZ?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/RuFerdZ?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RuFerdZ?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
   
 <!-- Charts section -->
 <p align="center">
