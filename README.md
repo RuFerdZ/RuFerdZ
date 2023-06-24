@@ -4,7 +4,7 @@
 
 ## I'm a Programmer, Gamer, Foodie!!
 
-- 👨🏻‍🎓 I’m currently an Undergraduate 
+- 👨🏻‍🎓 I’m working towards my Postgraduate 
 - 👯 I’m an Open Source developer
 - 🥅 Goals: Learn Something new everyday
 - ⚡ Fun fact: I love paranormal sciences
