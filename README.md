@@ -8,6 +8,9 @@
   <a href="https://github.com/RuFerdZ?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RuFerdZ?color=2980b9&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+<p align="center"> 
+  <a href="https://www.buymeacoffee.com/ruferdz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
 
 ## I'm a Programmer, Gamer, Foodie!!
 
