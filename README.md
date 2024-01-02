@@ -46,6 +46,8 @@
   
 <!-- Charts section -->
 <p align="center">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=RuFerdZ&custom_title=Rusiru+Fernando's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
-  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=RuFerdZ&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+  <img align="left" width="320px" src="https://github-readme-stats.vercel.app/api?username=RuFerdZ&custom_title=Rusiru+Fernando's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+  <img align="center"  width="320px" src="https://github-readme-streak-stats.herokuapp.com/?user=RuFerdZ&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+  <img align="right"  width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuFerdZ&langs_count=7&hide=javascript,html,typescript,php,css,tsql,Jupyter%20Notebook,shell&theme=transparent&layout=compact&hide_progress=true&hide_border=true&hide_title=true" />
+
 </p>
