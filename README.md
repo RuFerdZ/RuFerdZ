@@ -4,9 +4,9 @@
 <br>
 <p align="center"> 
   <a href="https://github.com/RuFerdZ?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/RuFerdZ?color=2980b9&style=for-the-badge&labelColor=2c3e50&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/RuFerdZ?color=e67e22&style=for-the-badge&labelColor=2c3e50&logo=star"/></a>
   <a href="https://github.com/RuFerdZ?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RuFerdZ?color=2980b9&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RuFerdZ?color=e67e22&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <p align="center"> 
   <a href="https://www.buymeacoffee.com/ruferdz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
@@ -46,8 +46,9 @@
   
 <!-- Charts section -->
 <p align="center">
-  <img align="left" width="320px" src="https://github-readme-stats.vercel.app/api?username=RuFerdZ&custom_title=Rusiru+Fernando's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
-  <img align="center"  width="320px" src="https://github-readme-streak-stats.herokuapp.com/?user=RuFerdZ&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
-  <img align="right"  width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuFerdZ&langs_count=7&hide=javascript,html,typescript,php,css,tsql,Jupyter%20Notebook,shell&theme=transparent&layout=compact&hide_progress=true&hide_border=true&hide_title=true" />
+<!--     <img width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuFerdZ&langs_count=7&hide=javascript,html,typescript,php,css,tsql,Jupyter%20Notebook,shell&theme=transparent&layout=compact&hide_progress=true&hide_border=true&hide_title=true" />
+  <br> -->
+  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=RuFerdZ&custom_title=Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=e67e22&text_color=878787&icon_color=e67e22&cache_seconds=1800" />
+  <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=RuFerdZ&background=00000000&hide_border=true&stroke=878787&ring=e67e22&fire=e74c3c&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 
 </p>
