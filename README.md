@@ -50,9 +50,7 @@
   <br> -->
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=RuFerdZ&custom_title=Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=e67e22&text_color=878787&icon_color=e67e22&cache_seconds=1800" />
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=RuFerdZ&background=00000000&hide_border=true&stroke=878787&ring=e67e22&fire=e74c3c&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
-
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
