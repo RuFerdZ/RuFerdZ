@@ -52,3 +52,7 @@
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=RuFerdZ&background=00000000&hide_border=true&stroke=878787&ring=e67e22&fire=e74c3c&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
